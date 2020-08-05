@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/terentinv/terentinv/blob/master/como-fazer-um-bom-readme-preview.png?raw=true">
 
 
 # Vinicius Terentin

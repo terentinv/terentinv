@@ -4,7 +4,7 @@
 # Vinicius Terentin
 
 ## Olá pessoal 👋
-Sou apaixonado em desenvolver minha criatividade utilizando a programação.
+Sou apaixonado em desenvolver minha criatividade utilizando a programação.<br/>
 Sou um estudante de Web Design Front-End que procura oportunidades na área  :computer:
 
   :barber: &nbsp; Estou trabalhando na **AVEC**

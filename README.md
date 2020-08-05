@@ -7,7 +7,7 @@
 Sou apaixonado em desenvolver minha criatividade utilizando a programação.<br/>
 Sou um estudante de Web Design Front-End que procura oportunidades na área  :computer:
 
-  :barber: &nbsp;  Estou trabalhando na **AVEC**
+  :barber: &nbsp;         Estou trabalhando na **AVEC**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript

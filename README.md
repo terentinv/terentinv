@@ -1,4 +1,4 @@
-<img width="auto" src="https://pbs.twimg.com/profile_images/1024720437337640961/VZO3KI_P.jpg">
+<img width="auto" src="https://i.ytimg.com/vi/Bv0cKfld3PM/maxresdefault.jpg">
 
 
 # Vinicius Terentin

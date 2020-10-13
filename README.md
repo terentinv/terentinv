@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado em desenvolver minha criatividade utilizando a programação.<br/>
-Sou  Web Design Front-End   :computer:
+Sou  Web Designer Front-End   :computer:
 
   :bird: &nbsp;         Estou trabalhando na **Ploomes**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React

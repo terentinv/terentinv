@@ -1,4 +1,4 @@
-<a href="https://www.ploomes.com/"><img width="auto" src="https://i.ytimg.com/vi/Bv0cKfld3PM/maxresdefault.jpg"></a>
+<a href="https://www.digibee.com/"><img width="auto" src="digibee.com/wp-content/uploads/2022/06/Digibee-logo-social-2022-stacked.jpg"></a>
 
 
 # Vinicius Terentin
@@ -7,7 +7,7 @@
 Sou apaixonado em desenvolver minha criatividade utilizando a programação.<br/>
 Sou  Web Designer Front-End   :computer:
 
-  :bird: &nbsp;         Estou trabalhando na **Ploomes**
+  :bee: &nbsp;         Estou trabalhando na **Digibee**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript

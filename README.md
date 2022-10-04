@@ -1,4 +1,4 @@
-<a href="https://www.digibee.com/"><img width="auto" heigth="300px" src="https://www.digibee.com/wp-content/uploads/2022/06/Digibee-logo-social-2022-stacked.jpg"></a>
+<a href="https://www.digibee.com/"><img width="auto" heigth="100px" src="https://www.digibee.com/wp-content/uploads/2022/06/Digibee-logo-social-2022-stacked.jpg"></a>
 
 
 # Vinicius Terentin
